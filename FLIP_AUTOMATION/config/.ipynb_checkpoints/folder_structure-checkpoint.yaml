@@ -1,0 +1,12 @@
+project_name: FLIP_AUTOMATION
+folders:
+  - config
+  - notebooks/layer01
+  - notebooks/layer02
+  - notebooks/layer03
+  - notebooks/layer04
+  - framework/magic
+  - framework/utils
+  - scheduler_dags/
+  - logs
+  - scripts

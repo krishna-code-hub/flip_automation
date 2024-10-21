@@ -1,0 +1,10 @@
+
+
+conda create -n jlab -c conda-forge python=3.10 jupyterlab -y
+
+jupyter server --generate-config
+
+jupyter lab --notebook-dir="D:\code-repo\jupyterlab" --preferred-dir E:/Documents/Somewhere/Else
+
+jupyter lab --notebook-dir="D:\code-repo\jupyterlab"
+
